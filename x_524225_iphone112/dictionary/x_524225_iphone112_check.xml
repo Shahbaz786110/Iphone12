@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="scan_check" label="Check" max_length="40" name="x_524225_iphone112_check" sizeclass="0" type="collection">
+        <element attributes="omit_sys_original=true" label="Changes" max_length="20" name="changes" type="currency"/>
+        <element label="Check" max_length="40" name="check" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
